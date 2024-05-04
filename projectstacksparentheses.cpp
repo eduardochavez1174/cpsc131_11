@@ -4,7 +4,7 @@
 #include <string>
 using namespace std;
 
-// Function used to check if the parentheses are balanced
+// Function used to check if the parentheses in the expression are balanced or not
 bool balancedParentheses(string expr)
 {
     // Stack of characters named p because the expression will contain parentheses
